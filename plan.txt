@@ -1,0 +1,5 @@
+- Błąd bezwględny pokazac
+- Wykresiki
+- zaplanowanie prezentacji 
+- Nauka Typsta
+- Napisanie prezentacj w Typscie
