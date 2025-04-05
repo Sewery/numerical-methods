@@ -34,7 +34,7 @@ def print_plot(n):
 def print_plots(arr_n):   
     for n in arr_n:
         print_plot(n)
-#print_plots([2,4,10])
+print_plots([2,4,10])
 print_plots([5,8])
 print_plots([11,15])
 print_plots([20,40,65,75])

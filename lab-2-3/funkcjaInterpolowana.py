@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 # Funkcja interpolowana
 def f_x(x):
     return -2*x*np.sin(3*(x-1))
+def df_x(x):
+    return -6*x*np.cos(3 - 3*x) + 2*np.sin(3 - 3*x);
 def draw_interpolated():
     x_values = np.linspace(-np.pi+1, 2*np.pi+1, 1000)
     y_values = [f_x(x) for x in x_values]
