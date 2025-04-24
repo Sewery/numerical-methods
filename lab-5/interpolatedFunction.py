@@ -9,7 +9,7 @@ def df_x(x):
 def draw_interpolated():
     x_values = np.linspace(-np.pi+1, 2*np.pi+1, 1000)
     y_values = [f_x(x) for x in x_values]
-    plt.plot(x_values, y_values, label="Funkcja interpolowana", color='lightgreen')
+    plt.plot(x_values, y_values, label="Funkcja aproksymująca", color='lightgreen')
 def chebyshev_nodes(a,b,n):
     nodes = []
     for i in range(1,n+1):
