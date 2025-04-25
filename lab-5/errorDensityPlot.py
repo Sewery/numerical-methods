@@ -65,4 +65,4 @@ def print_plot(n_limit, m_limit):
     plt.grid(True)
     plt.savefig(f"./plots/mean-square-aproximation-max-error-density-n{n_limit}-m{m_limit}-ngeqm-nozero.png", format='png')
     plt.show()
-print_plot(20,20)
+print_plot(30,30)

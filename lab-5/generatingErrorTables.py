@@ -31,5 +31,5 @@ def export_error_table_to_csv(n_values,m_values,filename,error_f):
     df.to_csv(f'{filename}.csv', index=False)
     return
 
-export_error_table_to_csv([i for i in range(2,21)],[i for i in range(2,21)],"./data/msa-avg-err-data-2-20",avg_error)
-export_error_table_to_csv([i for i in range(2,21)],[i for i in range(2,21)],"./data/msa-max-err-data-2-20",max_error)
+export_error_table_to_csv([i for i in range(2,31)],[i for i in range(2,31)],"./data/msa-avg-err-data-2-20",avg_error)
+export_error_table_to_csv([i for i in range(2,31)],[i for i in range(2,31)],"./data/msa-max-err-data-2-20",max_error)
