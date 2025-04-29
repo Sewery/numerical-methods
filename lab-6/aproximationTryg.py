@@ -14,6 +14,7 @@ def scaling(nodes_values):
 def tryg_aproximation(nodes_values,x,m):
     
     nodes_values_scaled=scaling(nodes_values)
+    x_scaled = ((x - a) / (b - a)) * 2 * np.pi - np.pi
 
     a_0=fourier(nodes_values_scaled,np.cos,0)
     w_m_x=a_0/2
@@ -21,7 +22,7 @@ def tryg_aproximation(nodes_values,x,m):
     for k in range(1,m+1):
         a_k=fourier(nodes_values_scaled,np.cos,k)
         b_k=fourier(nodes_values_scaled,np.sin,k)
-        w_m_x+=a_k*np.cos(k*x)+b_k*np.sin(k*x)
+        w_m_x+=a_k*np.cos(k*x_scaled)+b_k*np.sin(k*x_scaled)
 
     return w_m_x
 
@@ -59,4 +60,5 @@ def print_plots(arr_n_m):
         for m in arr_m:
             print_plot(m,n)
 
-print_plots([[10,[2,3,4]],[21,[4,5,6,7,8]]])
+#print_plots([[10,[2,3,4]],[15,[4,5,6,7]],[20,[4,5,6,7,8,9]],[30,[8,10,13,14]]])
+#print_plots([[30,[10,12,14]],[40,[7,10,12,15,19]],[50,[7,10,15,20,24]]])
