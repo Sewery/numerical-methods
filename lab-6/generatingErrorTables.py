@@ -31,6 +31,6 @@ def export_error_table_to_csv(n_values,m_values,filename,error_f):
     df.to_csv(f'{filename}.csv', index=False)
     return
 
-export_error_table_to_csv([5,8,10,12,15,18,20,24,28,30,40,50],[2,3,4,5,6,7,8,9,10,11,13,14,19,24],"./data/msat-avg-err-data",avg_error)
-export_error_table_to_csv([5,8,10,12,15,18,20,24,28,30,40,50],[2,3,4,5,6,7,8,9,10,11,13,14,19,24],"./data/msat-max-err-data",max_error)
+export_error_table_to_csv([5,8,10,12,15,18,20,24,28,30,40,50,60],[2,3,4,5,6,7,8,9,10,11,13,14,16,19,24,29],"./data/msat-avg-err-data",avg_error)
+export_error_table_to_csv([5,8,10,12,15,18,20,24,28,30,40,50,60],[2,3,4,5,6,7,8,9,10,11,13,14,16,19,24,29],"./data/msat-max-err-data",max_error)
 
