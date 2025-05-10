@@ -6,3 +6,5 @@ Zbiór rozwiązań zadań z zajęć laboratoryjnych na przedmiocie MONwNiT na uc
 - Interpolacja część III : Interpolacja sześciennej i kwadratowej funkcji sklejanej [lab-4-5](./lab-4-5/)
 - Interpolacja sprawozdanie : [spr-interpolacja](./spr-interpolacja/)
 - Aproksymacja średniokwadratowa [lab-5](./lab-5/)
+- Aproksymacja trygnometryczna [lab-6](./lab-6/)
+- Rozwiązywanie równań i układów równań nieliniowych część I [lab-7](./lab-7/)
