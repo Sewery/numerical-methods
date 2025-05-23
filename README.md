@@ -8,3 +8,5 @@ Zbiór rozwiązań zadań z zajęć laboratoryjnych na przedmiocie MONwNiT na uc
 - Aproksymacja średniokwadratowa [lab-5](./lab-5/)
 - Aproksymacja trygnometryczna [lab-6](./lab-6/)
 - Rozwiązywanie równań i układów równań nieliniowych część I [lab-7](./lab-7/)
+- Rozwiązywanie równań i układów równań nieliniowych część II [lab-8](./lab-8/)
+- Rozwiązywanie równań i układów równań nieliniowych część III [lab-9](./lab-9/)
