@@ -10,3 +10,4 @@ Zbiór rozwiązań zadań z zajęć laboratoryjnych na przedmiocie MONwNiT na uc
 - Rozwiązywanie równań i układów równań nieliniowych część I [lab-7](./lab-7/)
 - Rozwiązywanie równań i układów równań nieliniowych część II [lab-8](./lab-8/)
 - Rozwiązywanie równań i układów równań nieliniowych część III [lab-9](./lab-9/)
+- Układy równań liniowych - meotdy iteracyjne [lab-10](./lab-10/)
