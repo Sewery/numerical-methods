@@ -1,13 +1,20 @@
 # Numeric methods - Metody Obliczń Numeryczne w Nauce i Technice
 Zbiór rozwiązań zadań z zajęć laboratoryjnych na przedmiocie MONwNiT na uczelni AGH.
-- Arytmetyka komputerowa :  [lab-1](./lab-1/)
-- Interpolacja część I : Interpolacja Lagrange'a i Newtona  [lab-2-3](./lab-2-3/)
-- Interpolacja część II : Interpolacja Lagrange'a z użyciem mordy Hermita [lab-4](./lab-4/)
-- Interpolacja część III : Interpolacja sześciennej i kwadratowej funkcji sklejanej [lab-4-5](./lab-4-5/)
-- Interpolacja sprawozdanie : [spr-interpolacja](./spr-interpolacja/)
-- Aproksymacja średniokwadratowa [lab-5](./lab-5/)
-- Aproksymacja trygnometryczna [lab-6](./lab-6/)
-- Rozwiązywanie równań i układów równań nieliniowych część I [lab-7](./lab-7/)
-- Rozwiązywanie równań i układów równań nieliniowych część II [lab-8](./lab-8/)
-- Rozwiązywanie równań i układów równań nieliniowych część III [lab-9](./lab-9/)
-- Układy równań liniowych - meotdy iteracyjne [lab-10](./lab-10/)
+## Zadań laboratoryjne wraz z dokumentami
+1. Arytmetyka komputerowa:  [lab-1](./lab-1/)
+2. Interpolacja:
+    a) Interpolacja Lagrange'a i Newtona:  [lab-2-3](./lab-2-3/)
+    b) Interpolacja Lagrange'a z użyciem metody Hermite'a: [lab-4](./lab-4/)
+3. Funkcje sklejane:  [lab-4-5](./lab-4-5/)
+4. Aproksymacja:
+    a) Aproksymacja wielomianami algebraicznymi: [lab-5](./lab-5/)
+    b) Aproksymacja wielomianami trygonometrycznymi: [lab-6](./lab-6/)
+5. Równania nieliniowe: [lab-7](./lab-7/)
+6. Układy równań liniowych - metody bezpośrednie 
+    a) Metoda elimnacji Gaussa: [lab-8](./lab-8/)
+    a) Metoda elimnacji Gaussa i Thomasa:  [lab-9](./lab-9/)
+7. Układy równań liniowych - metody iteracyjne: [lab-10](./lab-10/)
+8. Rozwiązywanie równań różniczkowych zwyczajnych: [lab-11](./lab-11/)
+## Sprawozdania
+1. Sprawozdanie z zagadnień interpolacji: [spr-interpolacja](./spr-interpolacja/)
+2. Sprawozdanie z metod rozwiązywania układów równań liniowych:  [spr-ukl-rown-lin](./spr-ukl-rown-lin/)
