@@ -1,6 +1,0 @@
-Liczba węzłów,Błąd średni dla sklejania naturalnego,Błąd maks. dla sklejania naturalnego,Błąd średni dla sklejania clamped,Błąd maks. dla sklejania clamped
-40,3.74852e-04,1.61927e-01,9.98803e-05,1.92661e-02
-45,3.14173e-04,1.49681e-01,6.15810e-05,1.51619e-02
-50,2.78363e-04,1.41211e-01,4.08344e-05,1.23602e-02
-55,2.55411e-04,1.35092e-01,2.87931e-05,1.03556e-02
-60,2.39741e-04,1.30542e-01,2.14038e-05,8.86723e-03

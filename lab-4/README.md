@@ -9,4 +9,3 @@ Następnie wykonać komendę w folderze głównym:
 ```
 py ./main.py
 ```
-p.s
