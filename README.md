@@ -2,9 +2,9 @@
 Zbiór rozwiązań zadań laboratoryjnych z przedmiotu Metody Obliczeń Numerycznych w Nauce i Technice, realizowanego na uczelni AGH.
 ## Zadania laboratoryjne
 
-1.  **Arytmetyka komputerowa**: [lab-1](./lab-1/), 4/5 pkt
+1.  **Arytmetyka komputerowa**: [lab-1](./lab-1/)
 2.  **Interpolacja**:
-    * a) Interpolacja Lagrange'a i Newtona: [lab-2](./lab-2/) 7.5/10 pkt
+    * a) Interpolacja Lagrange'a i Newtona: [lab-2](./lab-2/) 
     * b) Interpolacja Lagrange'a z użyciem metody Hermite'a: [lab-3](./lab-3/)
 3.  **Funkcje sklejane**: [lab-4](./lab-4/)
 4.  **Aproksymacja**:
